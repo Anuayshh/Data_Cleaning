@@ -32,7 +32,7 @@ df.head()
 df.info()
 df.isnull().sum()
 ~~~
-LOAN DATA:
+### LOAN DATA:
 ~~~
 import pandas as pd
 df=pd.read_csv("Loan_data.csv")
@@ -63,45 +63,54 @@ df.isnull().sum()
 ## OUTPUT:
 ## DATA SET:
 ## DATA:
+![image](https://github.com/Anuayshh/Data_Cleaning/assets/127651217/36da3186-df98-4542-aca2-928420f852e1)
 
-![image](https://github.com/Anuayshh/Data_Cleaning/assets/127651217/6d97c1b5-972c-4c4f-9218-a138730e44a2)
 
 
 
 ## NON NULL BEFORE:
+![image](https://github.com/Anuayshh/Data_Cleaning/assets/127651217/37b7f985-e7a2-4bde-a4e3-c70430f8a653)
+
 
 
 
 
 
 ## NON NULL AFTER:
+![image](https://github.com/Anuayshh/Data_Cleaning/assets/127651217/26c247bf-7660-4523-b1fd-4ebd51bbc316)
+
+
 
 
 
 ## LOAN DATA:
-DATA:
+## DATA:
+![image](https://github.com/Anuayshh/Data_Cleaning/assets/127651217/59b6ee98-ac8f-4800-8c3d-c84171210f01)
+
 
 ## NON NULL BEFORE:
-image
+![image](https://github.com/Anuayshh/Data_Cleaning/assets/127651217/cce41047-f06a-4895-925b-a39970687592)
+
 
 ## MODE:
-image
+![image](https://github.com/Anuayshh/Data_Cleaning/assets/127651217/0167bc10-2ca6-47a1-bb50-4dd0f99f87c5)
+
 
 ## MEAN:
-image
+![image](https://github.com/Anuayshh/Data_Cleaning/assets/127651217/ab8820e8-abc2-4559-9107-948e5546f528)
+![image](https://github.com/Anuayshh/Data_Cleaning/assets/127651217/b6941e43-0a88-4cd0-8b54-ba95d5b72a8b)
+![image](https://github.com/Anuayshh/Data_Cleaning/assets/127651217/9557fe41-dae2-4065-99d2-275b723cb89c)
+![image](https://github.com/Anuayshh/Data_Cleaning/assets/127651217/37581069-32a1-409a-a57f-0a1a92f8d95c)
 
-image
 
-image
 
-image
 
 ## MEDIAN:
-image
+![image](https://github.com/Anuayshh/Data_Cleaning/assets/127651217/20153256-a375-4b66-8934-68ede2c7d01f)
+![image](https://github.com/Anuayshh/Data_Cleaning/assets/127651217/7632a4b5-390e-4499-ae58-ccd7b8af7c1d)
+![image](https://github.com/Anuayshh/Data_Cleaning/assets/127651217/b3fecccd-7c22-480a-baf9-5f307d81d215)
 
-image
-
-image
 
 ## NON NULL AFTER:
-image
+![image](https://github.com/Anuayshh/Data_Cleaning/assets/127651217/e076ed83-efd9-47a6-913b-468627d9ad14)
+
